@@ -1,0 +1,6 @@
+first_name,last_name,date_of_birth,class_name,student_id,email,phone,address,parent_name,parent_email,parent_phone,medical_info
+Jean,Dupont,2010-05-15,6ème A,S001,jean.dupont@example.com,0612345678,123 Rue de Paris,M. Dupont,parent.dupont@example.com,0687654321,Aucune
+Marie,Martin,2010-08-22,6ème A,S002,marie.martin@example.com,0623456789,45 Avenue Victor Hugo,Mme Martin,parent.martin@example.com,0698765432,Allergies: arachides
+Pierre,Bernard,2010-03-10,6ème B,S003,pierre.bernard@example.com,0634567890,78 Boulevard Saint-Michel,M. Bernard,parent.bernard@example.com,0609876543,Asthme
+Sophie,Dubois,2010-11-05,6ème B,S004,sophie.dubois@example.com,0645678901,12 Rue Gambetta,Mme Dubois,parent.dubois@example.com,0621098765,Aucune
+Lucas,Leroy,2010-06-30,6ème A,S005,lucas.leroy@example.com,0656789012,90 Rue de la République,M. Leroy,parent.leroy@example.com,0632109876,Aucune
