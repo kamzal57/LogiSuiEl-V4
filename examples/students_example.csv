@@ -1,0 +1,6 @@
+first_name,last_name,class_name,student_id,email,date_of_birth,parent_name,parent_email,parent_phone
+Jean,Dupont,6ème A,STU001,jean.dupont@example.com,2010-05-15,M. Dupont,parent.dupont@example.com,0612345678
+Marie,Martin,6ème A,STU002,marie.martin@example.com,2010-08-22,Mme Martin,parent.martin@example.com,0623456789
+Pierre,Dubois,6ème B,STU003,pierre.dubois@example.com,2010-03-10,M. Dubois,parent.dubois@example.com,0634567890
+Sophie,Lefebvre,6ème B,STU004,sophie.lefebvre@example.com,2010-11-30,Mme Lefebvre,parent.lefebvre@example.com,0645678901
+Thomas,Moreau,6ème A,STU005,thomas.moreau@example.com,2010-07-18,M. Moreau,parent.moreau@example.com,0656789012

@@ -1,0 +1,11 @@
+code,name,description,category,level
+MATH-01,Résoudre des problèmes,Résoudre des problèmes simples,Mathématiques,1
+MATH-02,Calcul mental,Maîtriser le calcul mental,Mathématiques,1
+MATH-03,Géométrie,Reconnaître des formes géométriques,Mathématiques,1
+FR-01,Lire et comprendre,Lire et comprendre un texte,Français,1
+FR-02,Écrire,Écrire un texte cohérent,Français,1
+FR-03,Grammaire,Maîtriser les bases de la grammaire,Français,1
+SC-01,Démarche scientifique,Suivre une démarche scientifique,Sciences,1
+SC-02,Observation,Observer et décrire des phénomènes,Sciences,1
+ART-01,Expression artistique,S'exprimer par l'art,Arts,1
+SPORT-01,Activités physiques,Pratiquer des activités physiques,EPS,1
