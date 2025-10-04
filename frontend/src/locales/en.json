@@ -1,0 +1,81 @@
+{
+  "app": {
+    "title": "LogiSuiEl",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "close": "Close",
+    "search": "Search",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Operation successful"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "username": "Username",
+    "password": "Password",
+    "loginError": "Invalid credentials",
+    "welcome": "Welcome"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "seatingPlan": "Seating Plan",
+    "evaluations": "Evaluations",
+    "schoolLife": "School Life",
+    "protocols": "Protocols",
+    "settings": "Settings"
+  },
+  "dashboard": {
+    "timetable": "Timetable",
+    "reminders": "Reminders",
+    "incidents": "Incidents",
+    "classMode": "Class Mode"
+  },
+  "students": {
+    "title": "Students",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "className": "Class",
+    "email": "Email",
+    "phone": "Phone",
+    "import": "Import CSV",
+    "addStudent": "Add Student"
+  },
+  "evaluations": {
+    "title": "Evaluations",
+    "competences": "Competences",
+    "grades": "Grades",
+    "reports": "Reports",
+    "addEvaluation": "Add Evaluation"
+  },
+  "schoolLife": {
+    "title": "School Life",
+    "absences": "Absences",
+    "lates": "Lates",
+    "punishments": "Punishments",
+    "exclusions": "Exclusions",
+    "notes": "Notes"
+  },
+  "protocols": {
+    "title": "Protocols",
+    "type": "Type",
+    "student": "Student",
+    "description": "Description",
+    "actions": "Actions",
+    "startDate": "Start Date",
+    "endDate": "End Date",
+    "addProtocol": "Add Protocol"
+  },
+  "settings": {
+    "title": "Settings",
+    "personal": "Personal Information",
+    "school": "School Information",
+    "timetable": "Timetable",
+    "periods": "Periods",
+    "appearance": "Appearance",
+    "language": "Language"
+  }
+}

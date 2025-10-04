@@ -1,0 +1,81 @@
+{
+  "app": {
+    "title": "LogiSuiEl",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "add": "Ajouter",
+    "close": "Fermer",
+    "search": "Rechercher",
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "success": "Opération réussie"
+  },
+  "auth": {
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "loginError": "Identifiants invalides",
+    "welcome": "Bienvenue"
+  },
+  "nav": {
+    "dashboard": "Tableau de bord",
+    "seatingPlan": "Plan de classe",
+    "evaluations": "Évaluations",
+    "schoolLife": "Vie scolaire",
+    "protocols": "Protocoles",
+    "settings": "Paramètres"
+  },
+  "dashboard": {
+    "timetable": "Emploi du temps",
+    "reminders": "Pense-bête",
+    "incidents": "Incidents",
+    "classMode": "Mode Classe"
+  },
+  "students": {
+    "title": "Élèves",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "className": "Classe",
+    "email": "Email",
+    "phone": "Téléphone",
+    "import": "Importer CSV",
+    "addStudent": "Ajouter un élève"
+  },
+  "evaluations": {
+    "title": "Évaluations",
+    "competences": "Compétences",
+    "grades": "Notes",
+    "reports": "Bilans",
+    "addEvaluation": "Ajouter une évaluation"
+  },
+  "schoolLife": {
+    "title": "Vie scolaire",
+    "absences": "Absences",
+    "lates": "Retards",
+    "punishments": "Punitions",
+    "exclusions": "Exclusions",
+    "notes": "Notes personnelles"
+  },
+  "protocols": {
+    "title": "Protocoles",
+    "type": "Type",
+    "student": "Élève",
+    "description": "Description",
+    "actions": "Actions",
+    "startDate": "Date de début",
+    "endDate": "Date de fin",
+    "addProtocol": "Ajouter un protocole"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "personal": "Informations personnelles",
+    "school": "Informations sur l'établissement",
+    "timetable": "Emploi du temps",
+    "periods": "Périodes",
+    "appearance": "Apparence",
+    "language": "Langue"
+  }
+}
