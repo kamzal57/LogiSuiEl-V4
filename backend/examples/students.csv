@@ -1,0 +1,11 @@
+first_name,last_name,class_name,email,parent_contact,date_of_birth
+Jean,Dupont,6A,jean.dupont@ecole.fr,0601020304,2012-05-15
+Marie,Martin,6A,marie.martin@ecole.fr,0605060708,2012-08-22
+Pierre,Durand,6A,pierre.durand@ecole.fr,0609101112,2012-03-10
+Sophie,Lefebvre,6B,sophie.lefebvre@ecole.fr,0613141516,2012-11-28
+Thomas,Moreau,6B,thomas.moreau@ecole.fr,0617181920,2012-07-05
+Emma,Laurent,6B,emma.laurent@ecole.fr,0621222324,2012-09-17
+Lucas,Simon,5A,lucas.simon@ecole.fr,0625262728,2013-01-22
+Chloé,Bernard,5A,chloe.bernard@ecole.fr,0629303132,2013-04-14
+Hugo,Petit,5A,hugo.petit@ecole.fr,0633343536,2013-06-08
+Léa,Robert,5B,lea.robert@ecole.fr,0637383940,2013-10-30
