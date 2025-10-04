@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.prod
+    ports:
+      - "8000:8000"
+    environment:
+      - LOGISUIEL_DATABASE_URL=sqlite+aiosqlite:///./data/logisuiel.db
+      - LOGISUIEL_SECRET_KEY=${SECRET_KEY:-change-me-in-production}
+      - LOGISUIEL_BACKEND_CORS_ORIGINS=http://localhost,http://localhost:80
+    volumes:
+      - backend-data:/app/data
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile.prod
+      args:
+        - VITE_API_URL=${API_URL:-http://localhost:8000}
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+    restart: unless-stopped
+
+volumes:
+  backend-data:

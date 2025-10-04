@@ -1,0 +1,54 @@
+{
+  "app": {
+    "title": "LogiSuiEl",
+    "subtitle": "Application de Gestion Scolaire"
+  },
+  "auth": {
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "loginButton": "Se connecter"
+  },
+  "navigation": {
+    "dashboard": "Tableau de bord",
+    "seatingPlan": "Plan de classe",
+    "evaluations": "Évaluations",
+    "schoolLife": "Vie scolaire",
+    "protocols": "Protocoles",
+    "settings": "Paramètres"
+  },
+  "actions": {
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "add": "Ajouter",
+    "import": "Importer",
+    "export": "Exporter"
+  },
+  "dashboard": {
+    "schedule": "Emploi du temps",
+    "reminders": "Pense-bête",
+    "incidents": "Incidents et rendez-vous",
+    "modeClass": "Mode Classe"
+  },
+  "students": {
+    "title": "Élèves",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "class": "Classe",
+    "email": "Email"
+  },
+  "evaluations": {
+    "competences": "Compétences",
+    "notes": "Notes",
+    "reports": "Bilans"
+  },
+  "schoolLife": {
+    "absences": "Absences",
+    "lates": "Retards",
+    "punishments": "Punitions",
+    "exclusions": "Exclusions"
+  }
+}
