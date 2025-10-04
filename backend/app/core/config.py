@@ -1,7 +1,7 @@
 from functools import lru_cache
 from typing import List
 
-from pydantic import AnyHttpUrl, BaseModel
+from pydantic import BaseModel
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
@@ -19,7 +19,7 @@ class Settings(BaseSettings):
 
     debug: bool = False
     app_name: str = "LogiSuiEl API"
-    backend_cors_origins: List[AnyHttpUrl] = []
+    backend_cors_origins: List[str] = ["http://localhost:5173"]
     database_url: str = "sqlite+aiosqlite:///./logisuiel.db"
     tokens: TokensConfig = TokensConfig()
 
